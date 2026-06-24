@@ -2,6 +2,17 @@
 
 TechHorizon is a premium, minimalist dark-themed developer and engineering blog application. Built with a React client and a lightweight Node.js Express server, it features a sleek black-and-white aesthetic, responsive layout configurations, dynamic content reading metrics, and optimized production hosting options.
 
+## 📸 Screenshots
+
+### Blogs Landing Page (Two-Column Hero & Cards Grid)
+![Blogs Landing Page](screenshots/blogs_list.png)
+
+### Cinematic Blog Reader Mode & Recommendations
+![Blog Detail Reader Page](screenshots/blog_detail.png)
+
+### Automated New Blog Form
+![New Blog Form](screenshots/new_blog_form.png)
+
 ---
 
 ## 🚀 Key Features
